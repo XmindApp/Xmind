@@ -1,5 +1,9 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "": true
+    }
 }
